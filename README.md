@@ -1,4 +1,4 @@
-# Descomplicando Kubernetes
+# Descomplicando o Kubernetes
 
 ## Install ``kubectl``
 
